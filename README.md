@@ -146,7 +146,7 @@ Ve a http://localhost:3001 y ¡disfruta buscando o publicando empleos!
 - 📝 `Editar y actualizar empleos:` Porque a veces los detalles de un empleo cambian.
 - 🗑️ `Eliminar empleos:` Adiós a esas ofertas que ya no sirven.
 - 👤 `Registro y perfil de usuario:` Los usuarios pueden crear perfiles, subir currículums y postularse a empleos.
-- 🔐 `Seguridad:` Autenticación robusta con JWT y almacenamiento seguro de contraseñas con Argon2.
+- 🔐 `Seguridad:` Autenticación robusta con JWT y almacenamiento seguro de contraseñas con Argon2 .
   
 - Este proyecto es la mezcla perfecta de tecnología moderna con un propósito noble: ¡ayudar a la gente a encontrar su próximo empleo!
 
